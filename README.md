@@ -30,8 +30,8 @@ This is screenshot of my solution to this challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/espinoza0/tip-calculator-app-main)
+- Live Site URL: [Add live site URL here](https://espinoza0.github.io/tip-calculator-app-main/)
 
 ## My process
 
@@ -44,4 +44,4 @@ This is screenshot of my solution to this challenge.
 
 ### What I learned
 
-This is my very first HTML CSS and JavaScript project that I publish. Even though it's a basic implementation, I learned more about DOM manipulation, Event Listeners, For Each loop, Control of errors and Arithmetic Operations. Looking forward for the next challenge!
+This is my very first HTML CSS and JavaScript project that I publish. Even though it's a basic implementation, I learned more about DOM manipulation, Event Listeners, For Each loop, Control of errors and Arithmetic Operations. Looking forward to the next challenge!
